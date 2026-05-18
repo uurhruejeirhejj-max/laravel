@@ -22,16 +22,43 @@ Saya membuat website ini untuk mempelajari fundamental Laravel 11 dari nol, mula
 ---
 
 ## Screenshot
+<details>
+<summary>Dashboard</summary>
+Merupakan menu utama dari website ini <br>
+  
+![Dashboard](screenshot/welcome.png)
+
+</details>
 
 <details>
-<summary>Main Menu</summary>
-Merupakan menu utama dari game dengan fitur : <br>
-* Menampilkan high score dan high level <br>
-* Button begin (Mulai) <br>
-* Button How To Play <br>
-* Button Reset Highest <br>
+<summary>Project</summary>
+Merupakan menu untuk melihat list project
+
+![List](screenshot/project.png)
+
+</details>
+
+<details>
+<summary>Create Project</summary>
+Merupakan menu untuk membuat project
+
+![Create](screenshot/create.png)
+
+</details>
+
+<details>
+<summary>Detail Project</summary>
+Merupakan menu untuk melihat detail dari project yang telah dibuat 
   
-![Main Menu](nama-project/screenshot.png)
+![Detail](screenshot/detailproject.png)
+
+</details>
+
+<details>
+<summary>Edit Project</summary>
+Ini merupakan menu untuk mengedit project jika ada yang harus dibenarkan
+
+![Edit](screenshot/edit.png)
 
 </details>
 
